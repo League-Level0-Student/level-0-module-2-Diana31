@@ -21,9 +21,18 @@ public class Validation {
 		System.out.println(randomNumber);
 
 		// 3. Use each value of randomNumber to give the user a random compliment.
-
+		if (randomNumber==0) {
+		System.out.println("You're eyebrows are on fleek!");
+		}else if (randomNumber==1) {
+			System.out.println("Con mazola nunca estas sola!");
+		}else if (randomNummber==2) {
+			
+		}
 		// 4. Repeat all the code above 10 times
 		
 		// 5. Find someone to test out your program. They will like it :)
 	}
+	
 }
+	
+	
